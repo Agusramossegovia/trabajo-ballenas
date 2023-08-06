@@ -12,7 +12,7 @@ export default function Contacto (){
             </form>
 
 
-            <form method='post' className='formulario'>
+            <form action="./contacto/gracias" method='post' className='formulario'>
                 <label>
                     Nombre:
                     <input type='text' name='nombre'/>
