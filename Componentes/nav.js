@@ -1,5 +1,5 @@
-import Link from 'next/link';
-import './nav.css';
+import Link from 'next/link'
+import './nav.css'
 
 export default function Nav () {
     return(
