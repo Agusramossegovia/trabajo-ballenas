@@ -4,7 +4,7 @@ export default function Contacto (){
     return(
         <>
             <h1>Sumate a la organizacion</h1>
-            <form name="contacto" data-netlify="true" netlify-honeypot="boto-field" hidden>
+            <form action="./contacto/gracias" name="contacto" data-netlify="true" netlify-honeypot="boto-field" hidden>
                 <input type='text' name='nombre'/>
                 <input type='email' name='email'/>
                 <textarea name='comentario'></textarea>
@@ -12,7 +12,7 @@ export default function Contacto (){
             </form>
 
 
-            <form action="./contacto/gracias" method='post' className='formulario'>
+            <form method='post' className='formulario'>
                 <label>
                     Nombre:
                     <input type='text' name='nombre'/>
