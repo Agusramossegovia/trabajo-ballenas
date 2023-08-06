@@ -1,0 +1,32 @@
+.ballena-extinsion {
+    max-width: 300px;
+    margin: 40px auto;
+    color: var(--negro);
+   
+    border-radius: 8px;
+    border: 1px solid var(--gris);
+    text-align: left;
+}
+.ballena-extinsion img {
+    border-radius: 8px 8px 0 0;
+    object-fit: cover;
+    max-width: 300px;
+
+}
+.extinsion-info{
+    padding: 8px 16px 24px;
+}
+.extinsion-info p {
+    color: var(--blanco);
+    margin-bottom: 8px;
+}
+.extinsion-detalles{
+    font-weight: bold;
+    color: var(--negro);
+}
+.masInfo {
+    background-color: var(--celeste);
+    padding: 4px 8px;
+    border-radius: 20px;
+    display: inline-block;
+}

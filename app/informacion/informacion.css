@@ -1,7 +1,8 @@
 .informacion{
     max-width: 1000px;
-    margin-right: auto;
-    margin-left: auto;
+    margin-right: 0;
+    padding: 0;
+    letter-spacing: 0.3px;
     color: var(--negro)
 }
 .img{

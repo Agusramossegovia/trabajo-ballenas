@@ -1,0 +1,23 @@
+[
+    {
+    "id":1,
+    "imagen": "../images/ballena-franca.jpg",
+    "titulo": "Ballena franca",
+    "descripcion": "La ballena franca austral es una especie de cetáceo misticeto de la familia Balaenidae propia del Hemisferio Sur.",
+    "masInfo": "mas informacion"
+    },
+    {
+    "id": 2, 
+    "imagen": "../images/blue-whale.jpg",
+    "titulo": "Ballena azul",
+    "descripcion": "La ballena azul es una especie de cetáceo misticeto de la familia Balaenopteridae, se encuentra en el Índico y en el Pacífico sur.",
+    "masInfo": "mas informacion"
+    },
+    {
+    "id": 3,
+    "imagen": "../images/Ballena-jorobada.png",
+    "titulo": "Ballena jorobada",
+    "descripcion": "Megaptera novaeangliae, también llamada ballena jorobada es una especie de cetáceo misticeto de la familia Balaenopteridae, se distribuye por todos los océanos y mares del mundo.",
+    "masInfo": "mas informacion"
+    }
+]

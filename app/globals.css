@@ -8,12 +8,13 @@
 
 * {
   box-sizing: border-box;
-  margin: 0;
+  margin: 20px auto;
   padding: 0;
 }
 
 body {
-  background-color: #4e6280;
+  background-color: #bfc0c0;
+  margin: 20px auto;
 } 
 .contenedor{
   max-width: 1000px;
