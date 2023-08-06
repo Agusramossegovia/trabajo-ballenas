@@ -1,0 +1,10 @@
+.informacion{
+    max-width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    color: var(--negro)
+}
+.img{
+    max-width: 300px;
+    object-fit: cover;
+}
