@@ -1,4 +1,6 @@
 import './contacto.css'
+import './Eventos.js'
+import Evento from './Eventos.js'
 
 export default function Contacto (){
     return(
@@ -30,23 +32,7 @@ export default function Contacto (){
 
                 <button type='submit'>Enviar</button>
             </form>
-        <br/>
-
-        <h2>ARGENTINA</h2>
-            <p>Cuidad Autonoma de Buenos Aires
-            <br/>
-            Avenida siemprevivas 1234
-            <br/>
-            Tel:1122334455
-            <br/>
-            </p>
-        <h2>COSTA ATLANTICA</h2>
-            <p>Costa ATLANTICA
-            <br/>
-            Avenida Eva 567
-            <br/>
-            Tel:1166778899
-            </p>
+        <Evento/>    
         </>
     )
 }

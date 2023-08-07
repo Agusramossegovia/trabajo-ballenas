@@ -2,13 +2,16 @@
     max-width: 1000px;
     margin-right: auto;
     margin-left: auto;
+    
 }
 .img {
     max-width: 300px;
     object-fit: cover;
+    text-align: center;
 }
 .grilla{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 12px;
+    place-items: center;
 }

@@ -2,6 +2,7 @@
 import './globals.css'
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
+import Encabezado from '@/Componentes/heard'
 import Nav from '@/Componentes/nav'
 import Footer from '@/Componentes/footer'
 
@@ -22,12 +23,10 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <div className='contenedor'>
-        <Nav/>
-        
+        <Encabezado/>
+        <Nav/>      
         {children}
-        
         <Footer/>
-      
         </div>
       </body>
     </html>

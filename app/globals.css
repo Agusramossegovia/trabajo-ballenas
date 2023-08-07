@@ -1,9 +1,9 @@
 :root {
-  --negro: rgb(0, 0, 0);
-  --blanco: rgb(255, 255, 255);
-  --gris: rgb(165, 168, 177);
-  --azul: rgb(0, 0, 255);
-  --celeste: hsl(199, 35%, 45%);
+  --negro: hsl(0, 0%, 0%);
+  --blanco: hsl(0, 0%, 100%);
+  --gris: hsl(225, 7%, 67%);
+  --azul: hsl(240, 100%, 50%);
+  --celeste: hsl(200, 35%, 45%);
 }
 
 * {
@@ -13,10 +13,17 @@
 }
 
 body {
-  background-color: #bfc0c0;
+  background-color: var(--gris);
   margin: 20px auto;
+
+
 } 
 .contenedor{
-  max-width: 1000px;
+  max-width: 100px;
   margin: 20x auto;
+}
+img{
+  width: 100%;
+  height: auto;
+  vertical-align: top;
 }

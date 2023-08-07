@@ -4,13 +4,12 @@ import Contenedor from './tarjetas/Contenedor'
 
 export default function Home() {
   return (
-    <main className={styles.main}>
-      <div className={styles.description}>
-        <h1>Salvemos a las ballenas!</h1>
+    <>
         <h2>Las ballenas en peligro de extision!</h2>
-        <p></p>
+        <p>En el mundo hay muchas especies en peligro de extision lamentablemente. En este sitio se puede ver los diferentes tipo de ballenas que se encuentran en peligro de extinsion.</p>
+        <br/>
         <Contenedor/>
-      </div>
-    </main>
+        <p></p>
+  </>
   )
 }

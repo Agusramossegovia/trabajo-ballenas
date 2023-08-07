@@ -3,9 +3,10 @@
     margin-right: 0;
     padding: 0;
     letter-spacing: 0.3px;
-    color: var(--negro)
+    color: var(--negro);
+    text-decoration: solid var(--azul);
 }
 .img{
     max-width: 300px;
-    object-fit: cover;
+
 }
