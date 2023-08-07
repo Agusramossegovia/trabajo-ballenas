@@ -4,12 +4,9 @@
     margin-left: auto;
     color: var(--blanco);
     text-align: center;
-    display: grid;
-    place-content: center;
+    
 }
 .nosotros-img {
     max-width: 300px;
     object-fit: cover;
-
-
 }
