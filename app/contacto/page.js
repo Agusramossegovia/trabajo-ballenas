@@ -1,6 +1,4 @@
 import './contacto.css'
-import './Eventos.js'
-import Evento from './Eventos.js'
 
 export default function Contacto (){
     return(
@@ -32,7 +30,7 @@ export default function Contacto (){
 
                 <button type='submit'>Enviar</button>
             </form>
-        <Evento/>    
+ 
         </>
     )
 }
