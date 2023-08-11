@@ -1,8 +1,16 @@
+'use client'
 import './contacto.css'
-
+import { useState } from 'react'
 export default function Contacto (){
+        const [numero, setNumero] = useState(0);
+
     return(
         <>
+        <p>por ahora vamos: {numero}</p>
+            <button onClik={() =>{setNumero(numero + 1)}}>
+                sumar 1 al numero
+            </button>
+
             <h1>Sumate a la organizacion</h1>
             <form action="./contacto/gracias" name="contacto" data-netlify="true" netlify-honeypot="boto-field" hidden>
                 <input type='text' name='nombre'/>

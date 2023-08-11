@@ -1,9 +1,9 @@
-import './footer.css';
+import styles from './footer.module.css'
 
 export default function Footer (){
     return(
-         <div className='foot-creditos'>
+         <footer className={styles.footer}>
             &copy; Copyright 2023
-         </div>
+         </footer>
     )
 }

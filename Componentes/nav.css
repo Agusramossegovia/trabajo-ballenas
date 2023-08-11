@@ -1,4 +1,6 @@
-
+.nav{
+    background-color: var(--celeste);
+}
 .nav-lista {
     display: flex;
     list-style: none;

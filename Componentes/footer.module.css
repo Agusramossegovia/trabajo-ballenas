@@ -1,7 +1,7 @@
-.foot-creditos{
+.footer{
     background-color: var(--celeste);
     max-width: 1000px;
-    margin:20px auto;
+    margin: 20px auto;
     padding: 10px 0;
     text-align: center;
 }

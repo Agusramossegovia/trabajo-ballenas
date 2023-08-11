@@ -1,5 +1,6 @@
 import './Tarjeta.css'
 
+
 export default function Tarjeta ({animal}){
     
     return (
@@ -9,7 +10,7 @@ export default function Tarjeta ({animal}){
                 <h2>{animal.titulo}</h2>
                 <p>{animal.descripcion}</p>
                 <div className="extinsion-detalles">
-                    <p className="masInfo">{animal.masInfo}</p>
+                    <button link href="./informacion" className="masInfo">{animal.masInfo}</button>
 
                 </div>
             </div>
