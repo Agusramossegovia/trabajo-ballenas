@@ -3,7 +3,6 @@ import './globals.css'
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import Encabezado from '@/Componentes/header'
-import Title from '@/Componentes/Title'
 import Nav from '@/Componentes/nav'
 import Footer from '@/Componentes/footer'
 
@@ -24,7 +23,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <div className='contenedor'>
-        <Title/>
+        <Encabezado/>
         <Nav/>      
         {children}
         <Footer/>

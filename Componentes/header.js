@@ -1,10 +1,10 @@
-import './header.css'
-import Image from 'next/image'
+import 'header.css'
 
 export default function Encabezado (){
     return(
         <header ref="./"> 
-            <Image width={50} height={50}src="/images/logob.png" alt="Imagen Logo" /> 
+            <h1 className="title">Salvemos a las Ballenas </h1>
+            <img src="/images/logob.png" alt="Imagen Logo" /> 
         </header>
     )
 }
