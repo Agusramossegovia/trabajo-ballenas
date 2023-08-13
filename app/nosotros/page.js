@@ -9,7 +9,7 @@ export default function Nosotros() {
             Todas y todos los voluntarios realizamos diferentes actividades para mejorar el ambiente para las ballenas. 
             Esta especie de animal son muy importantes para el mundo debido a sus rol hacia los ecosistemas marinos.</p>
             <br/>
-                <img src='./images/grupo.jpg' alt=''/>
+                <img src='./images/grupo.jpg' id='Gente'/>
             <br/>
             <p>Creamos este sitio con el fin de concientizar sobre la preservacion de las ballenas. Las cuales son muy importantes para el ambiente. Como se sabe, todo esta relacionado con el medio ambiente desde nosotros los humanos, animales de todas las especies hasta los ecosistemas. Todos somos fundamentales para el cuidado de nuestro planeta. </p>
             <br/>

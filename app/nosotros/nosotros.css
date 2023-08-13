@@ -10,3 +10,8 @@
     max-width: 300px;
     object-fit: cover;
 }
+.gente{
+    float: left;
+    shape-outside: attr(src url);
+    shape-image-threshold: 0.1;
+}
