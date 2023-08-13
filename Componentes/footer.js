@@ -1,8 +1,8 @@
-import styles from './footer.module.css'
+import './footer.css'
 
 export default function Footer (){
     return(
-         <footer className={styles.footer}>
+         <footer className="footer">
             &copy; Copyright 2023
          </footer>
     )
