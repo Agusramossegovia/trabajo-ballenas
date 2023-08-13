@@ -9,14 +9,21 @@ export default function Contacto (){
     return(
         <> 
             <h2>Apoyo a la preservacion de ballenas!</h2>
+
                 <h3>Vamos por la firma:{numero}</h3>
+
                     <button onClick={() => {setNumero(numero +1)}}>
                         Firmo!
                     </button>
+
                 <br/>
-                    <p>Cuando juntemos 100.000.000 firma, podremos presentar un proyecto para que se lleve a cabo en las ciudades de todo el pais. El proyecto se trata de educacion ambiental, etc, etc </p>
+
+                    <p>Cuando juntemos 100.000.000 firma, podremos presentar un proyecto para que se lleve a cabo en las ciudades de todo el pais. El proyecto se trata de educacion ambiental.</p>
+
                 <br/>
+
             <h2>Sumate a la organizacion</h2>
+            
                 <form action="./contacto/gracias" name="contacto" data-netlify="true" netlify-honeypot="boto-field" hidden>
                     <input type='text' name='nombre'/>
                     <input type='email' name='email'/>
