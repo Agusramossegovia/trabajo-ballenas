@@ -1,6 +1,6 @@
 'use client'
-import './contacto.css'
-import { useState } from 'react'
+import 'contacto.css';
+import { useState } from 'react';
 
 export default function Contacto (){
 

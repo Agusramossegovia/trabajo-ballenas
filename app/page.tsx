@@ -1,5 +1,5 @@
 
-import Contenedor from './tarjetas/Contenedor'
+import Contenedor from './tarjetas/Contenedor';
 
 export default function Home() {
   return (

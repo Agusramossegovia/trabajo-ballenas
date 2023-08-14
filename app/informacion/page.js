@@ -1,4 +1,4 @@
-import './informacion.css'
+import 'informacion.css';
 import Slider from './Swiper'
 
 export default function Informacion () {
