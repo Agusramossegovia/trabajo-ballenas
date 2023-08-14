@@ -8,7 +8,7 @@ export default function ContenedorTarjeta (){
         <h3>Especies en peligro de extinsión</h3>
             <div className="grilla">
                 {animal.map(elemento => (
-                <Tarjeta key={elemento.id} animal={elemento} />
+                    <Tarjeta key={elemento.id} animal={elemento}/>
                 ))}
             </div>
     </div>

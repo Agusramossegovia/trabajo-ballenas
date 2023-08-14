@@ -10,7 +10,10 @@ export default function Tarjeta ({animal}){
                 <h2>{animal.titulo}</h2>
                 <p>{animal.descripcion}</p>
                 <div className="extinsion-detalles">
-                    <button link href="./informacion" className="masInfo">{animal.masInfo}</button>
+                    <button className="masInfo">
+                        {animal.masInfo}   
+                        <a href=".informacion.js" />
+                    </button>
 
                 </div>
             </div>

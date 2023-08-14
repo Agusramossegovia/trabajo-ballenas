@@ -17,6 +17,7 @@
 body {
   background-color: var(--gris);
   margin: 20px auto;
+  justify-content: center;
 } 
 .contenedor{
   max-width: 1000px;
