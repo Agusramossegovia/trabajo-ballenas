@@ -1,5 +1,5 @@
 import './nosotros.css';
-import Image from 'next/image';
+
 export default function Nosotros() {
     return (
         <div>
@@ -10,12 +10,12 @@ export default function Nosotros() {
             Todas y todos los voluntarios realizamos diferentes actividades para mejorar el ambiente para las ballenas. 
             Esta especie de animal son muy importantes para el mundo debido a sus rol hacia los ecosistemas marinos.</p>
             <br/>
-                <Image width={100} height={100} src='./images/grupo.jpg'/>
+                <img src='./images/grupo.jpg'/>
             <br/>
                 <p>Creamos este sitio con el fin de la concientizacion de la preservacion de las ballenas. Las cuales son muy importantes. Como se sabe, todo esta relacionado con el medio ambiente desde nosotros los humanos, animales de todas las especies hasta los ecosistemas. Todos somos fundamentales para el cuidado de nuestro planeta. </p>
             <br/>
 
-            <Image width={100} height={100} src='/images/ballenos.jpg'/>
+                <img src='/images/ballenos.jpg'/>
             
             <h2>Actividades que realizamos</h2>
             
