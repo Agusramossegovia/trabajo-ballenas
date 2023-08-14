@@ -11,7 +11,7 @@
     object-fit: cover;
     
 }
-.gente{
+.img {
     float: left;
     shape-outside: attr(src url);
     shape-image-threshold: 0.1;
