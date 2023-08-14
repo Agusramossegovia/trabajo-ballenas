@@ -1,5 +1,5 @@
-import 'informacion.css';
-import Slider from './Swiper'
+import './informacion.css';
+import Slider from './Swiper';
 
 export default function Informacion () {
     return(
