@@ -31,6 +31,7 @@ export default function Nosotros() {
 
             <strong>Educacion ambiental</strong>
 
+                <p>La importancia de la Educación Ambiental articula distintos saberes que pueden ser utilizados para comprender. Donde el ser humano se visualice como una especie integrada plenamente al ecosistema que cohabita. A partir nuevas perspectivas orientadoras como el biocentrismo y ecocentrismo, por ejemplo, proyectar un nuevo habitante, que se ocupe constantemente por la salud de los Océanos y todos los espacios que impacta con sus comportamientos individuales y colectivos”.</p>
 
             <br/>
         </div>

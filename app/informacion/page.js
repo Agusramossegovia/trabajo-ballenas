@@ -19,13 +19,23 @@ export default function Informacion () {
         <br/>
             El rol de las ballenas en el correcto funcionamiento del ecosistema marino es indiscutible. Sus heces ricas en hierro, nitrógeno y otros nutrientes, actúan como fertilizante, aumentando la productividad de pequeñas algas conocidas como fitoplancton. Éstas son el principal alimento de pequeños crustáceos conocidos como kril, que a su vez sostienen la vida de cientos de especies de peces, aves y mamíferos marinos, incluídas las ballenas. Estos eventos de fertilización también pueden facilitar la mitigación de los impactos negativos del cambio climático.
             </p>
+            <p>Los océanos contribuyen en gran medida al equilibrio de todos los ecosistemas, ya que, junto con los bosques, son la gran fuente de oxigeno del planeta y absorben una gran cantidad de dióxido de carbono, ayudando a mitigar los efectos del cambio climático. Desde estas premisas, el cuidado de los océanos es fundamental, aprender a cuestionar nuestras acciones y hábitos desde la Escuela, puede contribuir directa e indirectamente con la deconstrucción de los malos pensamientos sobre el mar y lo que hacemos en contra de todo lo que el mar nos regala. </p>
+
         <h2>Especies en peligro de extision</h2>
+
             <p>Las ballenas estan en peligro de extision, algunas especies mas que otras. Ocho de las trece grandes especies de ballenas siguen en peligro de extinción, son vulnerables, después de décadas de protección. Según datos de la "Lista Roja de especies amenazadas", elaborada por IUCN que nos permite conocer el estado de la amenaza de las especies de animales y plantas en el mundo.</p>
+
             <br/>
-            <p>Las causas de que esten en peligro de extinsion son
-                 </p>
-        <h3>Posibles soluciones</h3>
-            <p>Educacion ambiental, limpieza de las playas, concientizar sobre el cuidado de los oceanos, ect ect. </p>
+
+            <p>Las causas de que esten en peligro de extinsion son:</p>
+            <strong>Capturas accidentales:</strong>
+            <p>Esta es la amenaza más importante. Al menos 300.000 ballenas, delfines y marsopas son víctimas de las capturas accidentales al año. </p>
+            <strong>Cambio climatico</strong>
+            <p>Las temperaturas más cálidas del océano y el derretimiento del hielo marino en las regiones polares pueden poner en peligro las zonas de alimentación ártica y antártica de muchas ballenas grandes. El aumento de la radiación ultravioleta también pueden provocar una disminución de la población de krill, una fuente primaria de alimentos para muchas especies marinas.</p>
+            <strong>Industias</strong>
+            <p>La industria petrolera, los vertederos, los puertos, los canales de transporte, las pesquerías y la acuicultura son un riesgo para la salud de los cetáceos: pérdida de hábitat, posibles daños auditivos y contaminación son las principales consecuencias de la actividad humana. </p>
+            <strong>Contaminacion y toxicos</strong>
+            <p>Las corrientes de aire y agua transportan productos químicos y metales pesados ​​de todo el mundo hasta el Ártico y el subártico. Los contaminantes volátiles y las partículas transportadas por las corrientes de aire tienden a estabilizarse a medida que alcanzan el aire frío del Ártico. Una vez que los productos químicos llegan al Ártico, tardan mucho tiempo en descomponerse por el frío, la falta de luz solar y la falta de actividad bacteriana. Lo que muchos consideran como ambientes prístinos contienen  altos niveles de contaminantes. Los productos químicos tóxicos y los metales pesados ​​en los ecosistemas árticos avanzan a través de la cadena alimentaria. Los estudios de tejidos de ballenas y delfines de todo el mundo muestran niveles significativos de contaminantes orgánicos persistentes y productos químicos que alteran el sistema endocrino. </p>
     </>
    )
 }
